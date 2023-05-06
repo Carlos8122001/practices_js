@@ -1,0 +1,8 @@
+//1: listar todos los elementos
+//2: ubicar por id estos elementos
+//3: agregar un elemento mas al array
+//4: ordenar este array de menor a mayor / viceversa
+//5: actualizar el sapCode(44343) a solo el id 30
+//6: agregarle un item mas a todos los objetos del array, el valor isUpdate: true / false
+//7: verificar si el array esta vacio.
+//8: listar todos los elementos del array ubicar el item name y devolverlo en minusculas
